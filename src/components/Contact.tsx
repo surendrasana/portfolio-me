@@ -21,7 +21,7 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect with me",
-      href: "http://www.linkedin.com/in/surendra-reddy-sana-venkata-13a666266"
+      href: "http://www.linkedin.com/in/surendra-reddy-13a666266/"
     },
     {
       icon: MapPin,
@@ -51,7 +51,7 @@ const Contact = () => {
                   <div className="inline-flex items-center justify-center w-12 h-12 bg-blue-500 rounded-full mb-4">
                     <contact.icon className="w-6 h-6 text-white" />
                   </div>
-                  <h3 className="font-semibold mb-2">{contact.label}</h3>
+                  <h3 className="font-semibold mb-2 text-white">{contact.label}</h3>
                   {contact.href ? (
                     <a 
                       href={contact.href}
@@ -90,10 +90,10 @@ const Contact = () => {
                 asChild
                 variant="outline"
                 size="lg"
-                className="border-2 border-blue-200 text-blue-200 hover:bg-blue-200 hover:text-blue-900 px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
+                className="border-2 border-blue-200 text-blue-600 hover:bg-blue-200 hover:text-blue-900 px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
               >
                 <a 
-                  href="http://www.linkedin.com/in/surendra-reddy-sana-venkata-13a666266"
+                  href="http://www.linkedin.com/in/surendra-reddy-13a666266/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"

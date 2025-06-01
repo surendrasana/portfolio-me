@@ -40,7 +40,7 @@ const Hero = () => {
               <span>+1 940-843-7401</span>
             </a>
             <a
-              href="http://www.linkedin.com/in/surendra-reddy-sana-venkata-13a666266"
+              href="https://www.linkedin.com/in/surendra-reddy-13a666266/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-blue-200 hover:text-white transition-colors"
@@ -69,7 +69,7 @@ const Hero = () => {
               onClick={() => scrollToSection("about")}
               variant="outline"
               size="lg"
-              className="border-2 border-blue-200 text-blue-200 hover:bg-blue-200 hover:text-blue-900 px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
+              className="bg-blue-600 border-2 border-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
             >
               Learn More
             </Button>
@@ -77,7 +77,7 @@ const Hero = () => {
               onClick={() => scrollToSection("contact")}
               variant="outline"
               size="lg"
-              className="border-2 border-blue-200 text-blue-200 hover:bg-blue-200 hover:text-blue-900 px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
+              className="border-2 border-blue-200 text-blue-600 hover:bg-blue-200 hover:text-blue-900 px-8 py-3 text-lg transition-all duration-300 hover:scale-105"
             >
               Get In Touch
             </Button>

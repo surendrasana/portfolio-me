@@ -9,9 +9,9 @@ const Experience = () => {
       company: "Creationisto Solutions Pvt. Ltd",
       role: "Web Designer & Team Lead",
       period: "Dec 2022 - 2023",
-      location: "Remote",
+      location: "Bengaluru,India",
       achievements: [
-        "Led the complete development lifecycle of Wulooj (https://www.wulooj.com/en/home), an AI-enabled Omni channel platform",
+        "Led the complete development lifecycle of  Wulooj (https://www.wulooj.com/en/home), an AI-enabled Omni channel platform",
         "Designed and implemented responsive front-end using HTML5, CSS3, Bootstrap 5, JavaScript, and React.js",
         "Managed a team of 2 junior designers and collaborated with backend and product teams",
         "Integrated chatbot and customer service modules across platforms (WhatsApp, Instagram, Twitter, Facebook)",
@@ -25,7 +25,7 @@ const Experience = () => {
       company: "Fonezela",
       role: "Web Designer",
       period: "2021 - 2022",
-      location: "Remote",
+      location: "Bengaluru,India",
       achievements: [
         "Created and deployed web and mobile apps with responsive layouts and cross-device compatibility",
         "Built UIs using HTML5, CSS3, JavaScript, and Bootstrap following mobile-first principles",

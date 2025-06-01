@@ -4,11 +4,11 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 const Education = () => {
   const education = [
     {
-      degree: "Master of Science in Information Technology",
+      degree: "Master of Science in Data Engineering",
       school: "University of North Texas",
       location: "Denton, TX",
       period: "2023 - 2025",
-      gpa: "3.3",
+      gpa: "3.7",
       status: "Completed",
     },
     {
